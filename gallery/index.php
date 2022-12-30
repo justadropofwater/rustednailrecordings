@@ -7,13 +7,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="referrer" content="same-origin" />
 		<meta name="robots" content="index, follow" />
-		<meta name="generator" content="RapidWeaver" />
-		<link rel="apple-touch-icon" sizes="180x180" href="https://rustednailrecordin.gs/resources/record-player-180x.png" />
-<link rel="apple-touch-icon" sizes="167x167" href="https://rustednailrecordin.gs/resources/medium.png" />
-<link rel="icon" type="image/png" href="https://rustednailrecordin.gs/resources/favicon_large.png" sizes="64x64" />
-<link rel="icon" type="image/png" href="https://rustednailrecordin.gs/resources/favicon_medium.png" sizes="32x32" />
+		<link rel="apple-touch-icon" sizes="167x167" href="https://rustednailrecordin.gs/resources/medium.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://rustednailrecordin.gs/resources/record-player-180x.png" />
 <link rel="apple-touch-icon" sizes="152x152" href="https://rustednailrecordin.gs/resources/small.png" />
+<link rel="mask-icon" href="https://rustednailrecordin.gs/resources/rusted-player.png" color="rgba(105,105,105,1.00)" /><link rel="icon" type="image/png" href="https://rustednailrecordin.gs/resources/favicon_medium.png" sizes="32x32" />
 <link rel="icon" type="image/png" href="https://rustednailrecordin.gs/resources/favicon_small.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://rustednailrecordin.gs/resources/favicon_large.png" sizes="64x64" />
 
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="Gallery | Rusted Nail Recordings">
@@ -29,22 +28,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
 	<title>Gallery | Rusted Nail Recordings</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Artful/consolidated-2.css?rwcache=694062489" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Artful/consolidated-2.css?rwcache=694077809" />
 		
 	  <style type="text/css" media="all">.groupTitle {
 	display: none;
-}</style>  		<link rel='stylesheet' type='text/css' media='all' href='../rw_common/plugins/stacks/stacks.css?rwcache=694062489' />
-		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page2.css?rwcache=694062489' />
-        <script type='text/javascript' charset='utf-8' src='../rw_common/plugins/stacks/jquery-2.2.4.min.js?rwcache=694062489'></script>
+}</style>  		<link rel='stylesheet' type='text/css' media='all' href='../rw_common/plugins/stacks/stacks.css?rwcache=694077809' />
+		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page2.css?rwcache=694077809' />
+        <script type='text/javascript' charset='utf-8' src='../rw_common/plugins/stacks/jquery-2.2.4.min.js?rwcache=694077809'></script>
         
         
         
 		
-		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page2.js?rwcache=694062489'></script>
-        <meta name="formatter" content="Stacks v5.0.0 (6244)" >
-		<meta class="stacks 5 stack version" id="com.nickcatesdesign.stacks.photo_2_image" name="Image" content="1.1.5">
-		<meta class="stacks 5 stack version" id="com.nickcatesdesign.stacks.photo_2_group" name="Photo Pro Group" content="1.1.5">
-		<meta class="stacks 5 stack version" id="com.nickcatesdesign.stacks.photo_2" name="Photo Pro Base" content="1.1.5">
+		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page2.js?rwcache=694077809'></script>
 		
 
 </head>
@@ -245,13 +240,13 @@
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="../rw_common/themes/Artful/js/main.js?rwcache=694062489"></script>
+	<script type="text/javascript" src="../rw_common/themes/Artful/js/main.js?rwcache=694077809"></script>
 <div id="rapidweaver_privacy_message">
     <p><span style="font:13px .AppleSystemUIFont; color:#FFFFFF;">We don't track you in any way. That's it. That's the entire privacy statement.  </span></p>
     <button id="rapidweaver_privacy_message_dismiss_button">Dismiss</button>
 </div>
 
-<script src="../rw_common/assets/message.js?rwcache=694062489"></script>
+<script src="../rw_common/assets/message.js?rwcache=694077809"></script>
 </body>
 
 </html>
