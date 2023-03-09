@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"9f2182e7d66fe62911878a9e09ade2d9-1.html":"After about a 20 year absence, Rusted Nail is back on the World Wide Web. Pretty cool. Lot's of stuff is missing and no streaming audio yet but there ","archive-december-2022.html":"Archives for December 2022","24c250fb0a051aebb5af34825f3d0347-2.html":"And fixed a few typos. "};
+	var websiteMeta = {"24c250fb0a051aebb5af34825f3d0347-2.html":"And fixed a few typos. ","9f2182e7d66fe62911878a9e09ade2d9-1.html":"After about a 20 year absence, Rusted Nail is back on the World Wide Web. Pretty cool. Lot's of stuff is missing and no streaming audio yet but there ","archive-march-2023.html":"Archives for March 2023","archive-december-2022.html":"Archives for December 2022","c6aa44d68b340acbe7d8a7c9b68310ac-3.html":"￼"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;

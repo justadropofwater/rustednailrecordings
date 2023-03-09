@@ -6,6 +6,9 @@
 	<meta charset="utf-8" /> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="referrer" content="same-origin" />
+		<meta name="description" content="Rusted Nail Recordings is a independant record label from Texas. Originally based in Corpus Christi, the label has released over 20 records from bands all over Texas." />
+		<meta name="robots" content="max-snippet:-1" />
+		<meta name="robots" content="max-image-preview:standard" />
 		<meta name="robots" content="index, follow" />
 		<link rel="apple-touch-icon" sizes="167x167" href="https://rustednailrecordin.gs/resources/medium.png" />
 <link rel="apple-touch-icon" sizes="180x180" href="https://rustednailrecordin.gs/resources/record-player-180x.png" />
@@ -28,18 +31,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
 	<title>Gallery | Rusted Nail Recordings</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Artful/consolidated-2.css?rwcache=694077809" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Artful/consolidated-2.css?rwcache=700028485" />
 		
 	  <style type="text/css" media="all">.groupTitle {
 	display: none;
-}</style>  		<link rel='stylesheet' type='text/css' media='all' href='../rw_common/plugins/stacks/stacks.css?rwcache=694077809' />
-		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page2.css?rwcache=694077809' />
-        <script type='text/javascript' charset='utf-8' src='../rw_common/plugins/stacks/jquery-2.2.4.min.js?rwcache=694077809'></script>
+}</style>  		<link rel='stylesheet' type='text/css' media='all' href='../rw_common/plugins/stacks/stacks.css?rwcache=700028485' />
+		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page2.css?rwcache=700028485' />
+        <script type='text/javascript' charset='utf-8' src='../rw_common/plugins/stacks/jquery-2.2.4.min.js?rwcache=700028485'></script>
         
         
         
 		
-		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page2.js?rwcache=694077809'></script>
+		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page2.js?rwcache=700028485'></script>
 		
 
 </head>
@@ -171,8 +174,8 @@
 								 $lb_caption = $exif_desc; 
 
 								# Sort 5 Chars
-					            $caption_start = mb_substr($lb_caption, 0, 5);
-					            $caption_end = substr($lb_caption, -5);
+					            $caption_start = mb_substr($lb_caption, 0, 1);
+					            $caption_end = substr($lb_caption, -1);
 
 								if(!is_dir($full_path) && in_array($thumbnail_ext,$image_extensions) && in_array($full_ext,$image_extensions)){?>
 
@@ -232,7 +235,7 @@
 			<div class="row justify-content-start">
 				<div class="col">
 					<div class="footer-content">
-						&copy; 2022 Rusted Nail Recordings <a href="#" id="rw_email_contact">Contact Us</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ru";var _rwObsfuscatedHref3 = "ste";var _rwObsfuscatedHref4 = "dna";var _rwObsfuscatedHref5 = "ilr";var _rwObsfuscatedHref6 = "eco";var _rwObsfuscatedHref7 = "rdi";var _rwObsfuscatedHref8 = "ngs";var _rwObsfuscatedHref9 = "@gm";var _rwObsfuscatedHref10 = "ail";var _rwObsfuscatedHref11 = ".co";var _rwObsfuscatedHref12 = "m";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7+_rwObsfuscatedHref8+_rwObsfuscatedHref9+_rwObsfuscatedHref10+_rwObsfuscatedHref11+_rwObsfuscatedHref12; document.getElementById("rw_email_contact").href = _rwObsfuscatedHref;</script>
+						&copy; 2022 Rusted Nail Recordings <a href="#" class="F12D40CE-011D-4F40-88FE-E9273A828CC9">Contact Us</a><script type="text/javascript">(function(){ var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ru";var _rwObsfuscatedHref3 = "ste";var _rwObsfuscatedHref4 = "dna";var _rwObsfuscatedHref5 = "ilr";var _rwObsfuscatedHref6 = "eco";var _rwObsfuscatedHref7 = "rdi";var _rwObsfuscatedHref8 = "ngs";var _rwObsfuscatedHref9 = "@gm";var _rwObsfuscatedHref10 = "ail";var _rwObsfuscatedHref11 = ".co";var _rwObsfuscatedHref12 = "m";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7+_rwObsfuscatedHref8+_rwObsfuscatedHref9+_rwObsfuscatedHref10+_rwObsfuscatedHref11+_rwObsfuscatedHref12; Array.from(document.getElementsByClassName("F12D40CE-011D-4F40-88FE-E9273A828CC9")).forEach(function(x){x.href = _rwObsfuscatedHref});})()</script>
 					</div>
 
 					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item"><a href="../releases/" rel="" class="nav-link">Releases</a></li><li class="nav-item"><a href="../bands/" rel="" class="nav-link">Bands</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Gallery</a></li><li class="nav-item"><a href="../blog/" rel="" class="nav-link">Blog</a></li></ul>
@@ -240,13 +243,13 @@
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="../rw_common/themes/Artful/js/main.js?rwcache=694077809"></script>
+	<script type="text/javascript" src="../rw_common/themes/Artful/js/main.js?rwcache=700028485"></script>
 <div id="rapidweaver_privacy_message">
     <p><span style="font:13px .AppleSystemUIFont; color:#FFFFFF;">We don't track you in any way. That's it. That's the entire privacy statement.  </span></p>
     <button id="rapidweaver_privacy_message_dismiss_button">Dismiss</button>
 </div>
 
-<script src="../rw_common/assets/message.js?rwcache=694077809"></script>
+<script src="../rw_common/assets/message.js?rwcache=700028485"></script>
 </body>
 
 </html>
