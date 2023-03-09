@@ -31,18 +31,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
 	<title>Gallery | Rusted Nail Recordings</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Artful/consolidated-2.css?rwcache=700028485" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Artful/consolidated-2.css?rwcache=700066257" />
 		
 	  <style type="text/css" media="all">.groupTitle {
 	display: none;
-}</style>  		<link rel='stylesheet' type='text/css' media='all' href='../rw_common/plugins/stacks/stacks.css?rwcache=700028485' />
-		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page2.css?rwcache=700028485' />
-        <script type='text/javascript' charset='utf-8' src='../rw_common/plugins/stacks/jquery-2.2.4.min.js?rwcache=700028485'></script>
+}</style>  		<link rel='stylesheet' type='text/css' media='all' href='../rw_common/plugins/stacks/stacks.css?rwcache=700066257' />
+		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page2.css?rwcache=700066257' />
+        <script type='text/javascript' charset='utf-8' src='../rw_common/plugins/stacks/jquery-2.2.4.min.js?rwcache=700066257'></script>
         
         
         
 		
-		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page2.js?rwcache=700028485'></script>
+		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page2.js?rwcache=700066257'></script>
 		
 
 </head>
@@ -235,7 +235,7 @@
 			<div class="row justify-content-start">
 				<div class="col">
 					<div class="footer-content">
-						&copy; 2022 Rusted Nail Recordings <a href="#" class="F12D40CE-011D-4F40-88FE-E9273A828CC9">Contact Us</a><script type="text/javascript">(function(){ var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ru";var _rwObsfuscatedHref3 = "ste";var _rwObsfuscatedHref4 = "dna";var _rwObsfuscatedHref5 = "ilr";var _rwObsfuscatedHref6 = "eco";var _rwObsfuscatedHref7 = "rdi";var _rwObsfuscatedHref8 = "ngs";var _rwObsfuscatedHref9 = "@gm";var _rwObsfuscatedHref10 = "ail";var _rwObsfuscatedHref11 = ".co";var _rwObsfuscatedHref12 = "m";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7+_rwObsfuscatedHref8+_rwObsfuscatedHref9+_rwObsfuscatedHref10+_rwObsfuscatedHref11+_rwObsfuscatedHref12; Array.from(document.getElementsByClassName("F12D40CE-011D-4F40-88FE-E9273A828CC9")).forEach(function(x){x.href = _rwObsfuscatedHref});})()</script>
+						&copy; 2023 Rusted Nail Recordings, All Rights Reserved. |  <a href="#" class="199EF145-74CD-4750-B20B-87ACEB102EBB">Contact Us</a><script type="text/javascript">(function(){ var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ru";var _rwObsfuscatedHref3 = "ste";var _rwObsfuscatedHref4 = "dna";var _rwObsfuscatedHref5 = "ilr";var _rwObsfuscatedHref6 = "eco";var _rwObsfuscatedHref7 = "rdi";var _rwObsfuscatedHref8 = "ngs";var _rwObsfuscatedHref9 = "@gm";var _rwObsfuscatedHref10 = "ail";var _rwObsfuscatedHref11 = ".co";var _rwObsfuscatedHref12 = "m";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7+_rwObsfuscatedHref8+_rwObsfuscatedHref9+_rwObsfuscatedHref10+_rwObsfuscatedHref11+_rwObsfuscatedHref12; Array.from(document.getElementsByClassName("199EF145-74CD-4750-B20B-87ACEB102EBB")).forEach(function(x){x.href = _rwObsfuscatedHref});})()</script>
 					</div>
 
 					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item"><a href="../releases/" rel="" class="nav-link">Releases</a></li><li class="nav-item"><a href="../bands/" rel="" class="nav-link">Bands</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Gallery</a></li><li class="nav-item"><a href="../blog/" rel="" class="nav-link">Blog</a></li></ul>
@@ -243,13 +243,13 @@
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="../rw_common/themes/Artful/js/main.js?rwcache=700028485"></script>
+	<script type="text/javascript" src="../rw_common/themes/Artful/js/main.js?rwcache=700066257"></script>
 <div id="rapidweaver_privacy_message">
-    <p><span style="font:13px .AppleSystemUIFont; color:#FFFFFF;">We don't track you in any way. That's it. That's the entire privacy statement.  </span></p>
+    <p><span style="font:13px .AppleSystemUIFont; color:#000000;">We don't track you in any way. That's it. That's the entire privacy statement.  </span></p>
     <button id="rapidweaver_privacy_message_dismiss_button">Dismiss</button>
 </div>
 
-<script src="../rw_common/assets/message.js?rwcache=700028485"></script>
+<script src="../rw_common/assets/message.js?rwcache=700066257"></script>
 </body>
 
 </html>
